@@ -1,0 +1,7 @@
+# OS generated filed #
+######################
+.DS_Store
+
+# The folder include files #
+############################
+.ieda/
